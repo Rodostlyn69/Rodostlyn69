@@ -1,2 +1,1 @@
-- I’m interested in Nintendo Modding
-- I’m currently learning how to write in C++
+- Work In Progress...
